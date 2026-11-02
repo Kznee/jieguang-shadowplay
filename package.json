@@ -1,0 +1,16 @@
+{
+  "name": "jieguang-shadowplay",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "借光：三维影子拼图与一物双影解谜小游戏",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check model.js",
+    "test": "node qa/browser.mjs",
+    "test:geometry": "node qa/geometry-v2.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

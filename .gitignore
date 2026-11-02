@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+.openai/
+qa/tmp/
+qa/*.png
+*.zip
+*.tar

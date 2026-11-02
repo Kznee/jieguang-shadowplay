@@ -1,0 +1,122 @@
+[
+  {
+    "level": 0,
+    "name": "猫的侧影",
+    "faces": 1056,
+    "pieces": 132,
+    "correct": 0.975583864118896,
+    "start": 0.4656671664167916,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 1,
+    "name": "月亮来信",
+    "faces": 728,
+    "pieces": 364,
+    "correct": 0.9431372549019608,
+    "start": 0.46590503391645843,
+    "other": 0.9405405405405406,
+    "wrongTarget": 0.2687116564417178
+  },
+  {
+    "level": 2,
+    "name": "纸鹤起飞",
+    "faces": 616,
+    "pieces": 77,
+    "correct": 0.9501039501039501,
+    "start": 0.2195037904893177,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 3,
+    "name": "深海来客",
+    "faces": 716,
+    "pieces": 358,
+    "correct": 0.9686153846153847,
+    "start": 0.575240128068303,
+    "other": 0.9465317919075145,
+    "wrongTarget": 0.2138635142396561
+  },
+  {
+    "level": 4,
+    "name": "风的方向",
+    "faces": 512,
+    "pieces": 64,
+    "correct": 0.9904076738609112,
+    "start": 0.36957276832233416,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 5,
+    "name": "秘密的钥匙",
+    "faces": 576,
+    "pieces": 72,
+    "correct": 0.9514134275618374,
+    "start": 0.25347084490281635,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 6,
+    "name": "月下奔兔",
+    "faces": 680,
+    "pieces": 85,
+    "correct": 0.9799440298507462,
+    "start": 0.3849318590897403,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 7,
+    "name": "为你留灯",
+    "faces": 936,
+    "pieces": 117,
+    "correct": 0.9514666666666667,
+    "start": 0.28310149407521895,
+    "other": null,
+    "wrongTarget": null
+  },
+  {
+    "level": 8,
+    "name": "夜的来客",
+    "faces": 1034,
+    "pieces": 517,
+    "correct": 0.9466873706004141,
+    "start": 0.5066253171694389,
+    "other": 0.9383009017560513,
+    "wrongTarget": 0.6028571428571429
+  },
+  {
+    "level": 9,
+    "name": "翅膀与叶脉",
+    "faces": 1236,
+    "pieces": 618,
+    "correct": 0.9498269896193772,
+    "start": 0.6568300809138505,
+    "other": 0.966155057064148,
+    "wrongTarget": 0.5970596242853253
+  },
+  {
+    "level": 10,
+    "name": "林间的秘密",
+    "faces": 628,
+    "pieces": 314,
+    "correct": 0.9455128205128205,
+    "start": 0.4667006889512631,
+    "other": 0.9692398698609879,
+    "wrongTarget": 0.40252382178727786
+  },
+  {
+    "level": 11,
+    "name": "心里的旋律",
+    "faces": 728,
+    "pieces": 364,
+    "correct": 0.9720978298312091,
+    "start": 0.6111442193087009,
+    "other": 0.9374167776298269,
+    "wrongTarget": 0.39528118939883644
+  }
+]
